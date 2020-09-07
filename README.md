@@ -1,7 +1,7 @@
 # hw3-Fall20
 Homework 3 for Fall 2020
 
-Read Homework #3 Intsructions and Rubric.pdf for the instructions and grading rubric.
+Read Homework #3 Intstructions and Rubric.pdf for the instructions and grading rubric.
 
 Modify hw3.py.
 
